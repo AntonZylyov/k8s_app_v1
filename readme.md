@@ -1,1 +1,1 @@
-Эта домашка переехала сюда https://github.com/AntonZylyov/microservices_architect/tree/master/01
+Р­С‚Р° РґРѕРјР°С€РєР° РїРµСЂРµРµС…Р°Р»Р° СЃСЋРґР° https://github.com/AntonZylyov/microservices_architect/tree/master/01
